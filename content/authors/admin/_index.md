@@ -1,11 +1,12 @@
 ---
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Group Leader
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Adaptive multi-physics simulations - Scientific machine learning -
+    High-performance computing with Julia - Applications in fluid mechanics
+  - aeroacoustics
+  - and astrophysics - Academic
+  - industrial and pre-academic HPC training
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,8 +29,8 @@ social:
     icon_pack: fab
     link: https://github.com/sloede
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Stuttgart, Germany
+    url: https://www.hlrs.de/people/schlottke-lakemper
 education:
   courses:
     - course: Dr.-Ing. in Computational Engineering Science
@@ -43,12 +44,13 @@ education:
       year: 2010
 superuser: true
 highlight_name: true
-title: Nelson Bighetti
+title: Michael Schlottke-Lakemper
 email: michael@sloede.com
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a group leader and research software engineer at the
+[High-Performance Computing Center Stuttgart](https://www.hlrs.de)
+of the
+[University of Stuttgart, Germany](https://www.uni-stuttgart.de).
+My research focus is on numerical methods for adaptive multi-physics
+simulations, high-performance computing with Julia, and scientific machine
+learning.
