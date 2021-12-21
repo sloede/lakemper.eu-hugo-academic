@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/michaelschlottkelakemper
   - icon: researchgate
     icon_pack: fab
-    link: " https://www.researchgate.net/profile/Michael_Schlottke-Lakemper"
+    link: https://www.researchgate.net/profile/Michael_Schlottke-Lakemper
   - icon: github
     icon_pack: fab
     link: https://github.com/sloede
