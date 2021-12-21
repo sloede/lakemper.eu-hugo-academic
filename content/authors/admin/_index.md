@@ -1,5 +1,6 @@
 ---
 role: Group Leader
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Adaptive multi-physics simulations - Scientific machine learning -
