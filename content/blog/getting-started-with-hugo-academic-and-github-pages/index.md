@@ -53,10 +53,10 @@ The easiest way to set up Hugo is to download and unpack the latest release from
 on installing Hugo, refer to the
 [official installation instructions](https://gohugo.io/getting-started/installing/).
 
-{{% alert note %}}
+{{% callout note %}}
 Make sure you install the **extended** version of Hugo, which is required to build the Hugo Academic
 theme.
-{{% /alert %}}
+{{% /callout %}}
 
 ## 2. Create source repository
 As a first step, we will create a new source repository on GitHub. It will hold your website's
@@ -185,11 +185,11 @@ branch* as your website source. Please note that in my case the URL differs from
 since I have already set up a
 [custom domain for my GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site).
 {{< figure src="github_pages_settings_source.png" title="GitHub Pages settings to select which branch to serve as a website." numbered="true" lightbox="true" >}}
-{{% alert note %}}
+{{% callout note %}}
 It is also advisable to tick the box *Enforce HTTPS*, since SSL-encrypted website connections are
 the norm nowadays.
 {{< figure src="github_pages_enforce_https.png" title="" numbered="false" lightbox="true" >}}
-{{% /alert %}}
+{{% /callout %}}
 
 Now your host repository's content (currently only the README file) will be available online and you can make sure that everything works by clicking on the link in the green box:
 {{< figure src="initial_github_pages.png" title="Initial GitHub Pages website showing the README file." numbered="true" lightbox="true" >}}
