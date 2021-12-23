@@ -8,8 +8,10 @@ toc: true
 authors: []
 tags: []
 categories: []
-date: 2020-07-12T06:51:13+02:00
-lastmod: 2020-07-12T06:51:13+02:00
+# date: "2020-07-12T06:51:13+02:00"
+# lastmod: "2020-07-12T06:51:13+02:00"
+date: "2020-07-12T06:51:13Z"
+lastmod: "2020-07-12T06:51:13Z"
 featured: false
 draft: false
 
