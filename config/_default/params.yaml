@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,20 +20,20 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: m.schlottke-lakemper@hlrs.d
+phone: +49 (711) 685-87162
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
+  street: Nobelstraße 19
+  city: Stuttgart
+#  region: CA
+  postcode: '70569'
+  country: Germany
+  country_code: DE
+#coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+office_hours: Due to the Corona situation, I do not have regular office hours and cannot be reached reliably via phone. Please email me instead.
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com'
