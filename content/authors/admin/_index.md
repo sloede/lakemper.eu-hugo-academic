@@ -3,11 +3,11 @@ role: Group Leader
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Adaptive multi-physics simulations - Scientific machine learning -
-    High-performance computing with Julia - Applications in fluid mechanics
-  - aeroacoustics
-  - and astrophysics - Academic
-  - industrial and pre-academic HPC training
+  - Adaptive multi-physics simulations
+  - Scientific machine learning
+  - High-performance computing with Julia
+  - Applications in fluid mechanics, aeroacoustics, and astrophysics
+  - Academic, industrial, and pre-academic HPC training
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,12 +23,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/michaelschlottkelakemper
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Michael_Schlottke-Lakemper
   - icon: github
     icon_pack: fab
     link: https://github.com/sloede
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Michael_Schlottke-Lakemper
 organizations:
   - name: University of Stuttgart, Germany
     url: https://www.hlrs.de/people/schlottke-lakemper
