@@ -18,10 +18,13 @@ main:
 #    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 40
+  - name: Teaching
+    url: '#teaching'
+    weight: 45
   - name: Personal Blog
     url: '#blog'
-    weight: 55
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
