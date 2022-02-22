@@ -49,7 +49,7 @@ title: Michael Schlottke-Lakemper
 email: michael@sloede.com
 ---
 I am a group leader and research software engineer at the
-[High-Performance Computing Center Stuttgart](https://www.hlrs.de)
+[High-Performance Computing Center Stuttgart](https://www.hlrs.de/about-us/organization/divisions-departments/av/tasc/)
 of the
 [University of Stuttgart, Germany](https://www.uni-stuttgart.de).
 My research focus is on numerical methods for adaptive multi-physics
