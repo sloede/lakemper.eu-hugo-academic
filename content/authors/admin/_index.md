@@ -5,13 +5,12 @@ bio: ""
 interests:
   - Adaptive multi-physics simulations
   - Scientific machine learning
-  - High-performance computing with Julia
+  - Research software engineering for high-performance computing with Julia
   - Applications in fluid mechanics, aeroacoustics, and astrophysics
-  - Academic, industrial, and pre-academic HPC training
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:m.schlottke-lakemper@hlrs.de
+    link: mailto:m.schlottke-lakemper@acom.rwth-aachen.de
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=k3vPAhsAAAAJ
@@ -30,8 +29,8 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Michael_Schlottke-Lakemper
 organizations:
-  - name: University of Stuttgart, Germany
-    url: https://www.hlrs.de/people/schlottke-lakemper
+  - name: RWTH Aachen University, Germany
+    url: https://www.acom.rwth-aachen.de/5people/schlottke-lakemper/start
 education:
   courses:
     - course: Dr.-Ing. in Computational Engineering Science
@@ -48,10 +47,10 @@ highlight_name: true
 title: Michael Schlottke-Lakemper
 email: michael@sloede.com
 ---
-I am a group leader and research software engineer at the
-[High-Performance Computing Center Stuttgart](https://www.hlrs.de/about-us/organization/divisions-departments/av/tasc/)
-of the
-[University of Stuttgart, Germany](https://www.uni-stuttgart.de).
+I am a temporary professor (Professurvertreter) and research software engineer at the
+[Applied and Computational Mathematics Research Lab](https://www.acom.rwth-aachen.de)
+at
+[RWTH Aachen University, Germany](https://www.rwth-aachen.de).
 My research focus is on numerical methods for adaptive multi-physics
-simulations, high-performance computing with Julia, and scientific machine
-learning.
+simulations, research software engineering for high-performance computing, and
+scientific machine learning.
