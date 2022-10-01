@@ -1,5 +1,5 @@
 ---
-role: Temporary Professor
+role: Interim Professor
 avatar_filename: avatar.png
 bio: ""
 interests:
@@ -47,7 +47,7 @@ highlight_name: true
 title: Michael Schlottke-Lakemper
 email: michael@sloede.com
 ---
-I am a temporary professor (Professurvertreter) and research software engineer at the
+I am an interim professor (Professurvertreter) and research software engineer at the
 [Applied and Computational Mathematics Research Lab](https://www.acom.rwth-aachen.de)
 at
 [RWTH Aachen University, Germany](https://www.rwth-aachen.de).
