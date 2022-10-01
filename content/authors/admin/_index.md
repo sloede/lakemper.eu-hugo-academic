@@ -1,5 +1,5 @@
 ---
-role: Group Leader
+role: Temporary Professor
 avatar_filename: avatar.png
 bio: ""
 interests:
