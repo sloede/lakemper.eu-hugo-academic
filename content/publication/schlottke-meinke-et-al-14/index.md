@@ -1,18 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A direct-hybrid method for computational aeroacoustics
+title: A hybrid discontinuous Galerkin-finite volume method for computational aeroacoustics
 subtitle: ''
 summary: ''
 authors:
 - M. Schlottke
-- H. -J. Cheng
-- A. Lintermann
 - M. Meinke
 - W. Schröder
 tags: []
 categories: []
-date: '2015-01-01'
+date: '2014-01-01'
 lastmod: 2022-10-23T11:14:42+02:00
 featured: false
 draft: false
@@ -31,11 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-23T09:14:42.163654Z'
+publishDate: '2022-10-23T09:14:42.287931Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*AIAA Aviation, 22-26 June 2015, Dallas, TX, 21st AIAA/CEAS Aeroacoustics
-  Conference*'
-doi: 10.2514/6.2015-3133
+publication: '*STAB Symposium 2014, 4-5 November 2014, Munich*'
 ---

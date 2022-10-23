@@ -1,19 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A direct-hybrid method for computational aeroacoustics
+title: 'Trixi.jl: Adaptive high-order numerical simulations of hyperbolic PDEs in
+  Julia'
 subtitle: ''
 summary: ''
 authors:
-- M. Schlottke
-- H. -J. Cheng
-- A. Lintermann
-- M. Meinke
-- W. Schröder
+- Michael Schlottke-Lakemper
+- Gregor J Gassner
+- Hendrik Ranocha
+- Andrew R Winters
+- Jesse Chan
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2022-10-23T11:14:42+02:00
+date: '2021-01-01'
+lastmod: 2022-10-23T11:14:44+02:00
 featured: false
 draft: false
 
@@ -31,11 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-23T09:14:42.163654Z'
+publishDate: '2022-10-23T09:14:44.008499Z'
 publication_types:
-- '2'
+- '0'
 abstract: ''
-publication: '*AIAA Aviation, 22-26 June 2015, Dallas, TX, 21st AIAA/CEAS Aeroacoustics
-  Conference*'
-doi: 10.2514/6.2015-3133
+publication: ''
+doi: 10.5281/zenodo.3996439
 ---
