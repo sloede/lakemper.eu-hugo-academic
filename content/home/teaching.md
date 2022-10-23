@@ -10,12 +10,22 @@ subtitle: Courses and supervised students
 
 ## Courses
 
+### Mathematical Principles I
+
+Winter 2022/2023,
+[website](https://www.acom.rwth-aachen.de/3teaching/0classes/cesi)
+
+### Numerical Methods for Computational Fluid Dynamics
+
+Summer 2021,
+[website](https://www.mi.uni-koeln.de/NumSim/teaching/seminar-numerische-methoden-in-der-stromungsmechanik-14722-0042-ss21/)
+
 ### Machine Learning in Theory and Practice
 
 Winter 2020/2021,
 [website](https://www.mi.uni-koeln.de/NumSim/teaching/seminar-maschinelles-lernen-in-theorie-und-praxis-14722-0039/)
 
-### Numerical Methods in Fluid Dynamics
+### Numerical Methods for Computational Fluid Dynamics
 
 Summer 2020,
 [website](https://www.mi.uni-koeln.de/NumSim/teaching/seminar-numerische-methoden-in-der-stromungsmechanik-14722-0042/)
@@ -26,11 +36,17 @@ Winter 2019/2020,
 [website](https://www.mi.uni-koeln.de/NumSim/teaching/seminar-maschinelles-lernen-mit-kuenstlichen-neuronalen-netzen-14722-0041/)
 
 ## Supervised Students
+### PhD theses
+* N. Neher, Particle-based parallel multiphysics simulations (tbd.) (expected 2027)
+
 ### Master's Theses
-* J. Odenthal, Shock detection with articial neural networks (expected 2020)
-* C. Hotopp, High-order numerical methods with shock capturing (expected 2020)
-* K. Scislak, Machine learning-based non-reflecting boundary conditions for Maxwell’s equations
-(expected 2020)
+* H. Zunker, Robust and self-learning shock capturing with artificial neural networks (2022)
+* D. Sklema, Perturbation kinetic equations for turbulence simulations (2022)
+* E. Faulhaber, Octree-Based AMR on Cubed Sphere Grids with Discontinuous Galerkin Methods (2022)
+* K. Scislak, Deep learning-based boundary conditions for computational aeroacoustics (2021)
+* J. Odenthal, Shock capturing with articial neural networks (2021)
+* M. Matysiak, Turbulence modeling with artificial neural networks for the
+  viscous Burgers’ equation (2020)
 * J. Vorspohl, A comparison between SBP-SAT and DG operators for computational aeroacoustics
 on non-conforming meshes (2019)
 * B. Peeters, Combustion noise prediction with the direct-hybrid method for computational aeroa-
@@ -46,8 +62,10 @@ based solver for the acoustic perturbation equations (2014)
 Galerkin spectral element method (2014)
 
 ### Bachelor's Theses
+* L. Christmann, Non-reflecting boundary conditions for computational
+  aeroacoustics based on arti- cifial neural networks (2022)
 * L. Hristozova, Comparison of the discontinuous Galerkin method with SBP-SAT finite difference
-operators for aeroacoustics problems (2018)
+  operators for aeroacoustics problems (2018)
 * P. Antony, Development of a coupled discontinuous Galerkin–finite volume scheme, 2018
 * F. Zechel, Dissipations- und Dispersionseigenschaften der unstetigen Galerkin Spektrale Elemente
 Methode (2016)
