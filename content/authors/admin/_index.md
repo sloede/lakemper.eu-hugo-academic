@@ -47,7 +47,7 @@ highlight_name: true
 title: Michael Schlottke-Lakemper
 email: michael@sloede.com
 ---
-I am an interim professor (Professurvertreter) for Computational Mathematics and
+I am an interim professor (Vertretungsprofessor) for Computational Mathematics and
 research software engineer at the
 [Applied and Computational Mathematics Research Lab](https://www.acom.rwth-aachen.de)
 at
