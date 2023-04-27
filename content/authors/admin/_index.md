@@ -52,6 +52,10 @@ research software engineer at the
 [Applied and Computational Mathematics Research Lab](https://www.acom.rwth-aachen.de)
 at
 [RWTH Aachen University, Germany](https://www.rwth-aachen.de).
+For this position, I am currently on leave from heading the
+[Training & Scalabale Algorithms group](https://www.hlrs.de/about/tasc)
+at the
+[High-Performance Computing Center Stuttgart (HLRS)](https://www.hlrs.de).
 My research focus is on numerical methods for adaptive multi-physics
 simulations, research software engineering for high-performance computing, and
 scientific machine learning.
