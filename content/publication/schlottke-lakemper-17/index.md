@@ -1,35 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: A Direct-Hybrid Method for Aeroacoustic Analysis
-subtitle: ''
-summary: ''
 authors:
 - Michael Schlottke-Lakemper
-tags: []
-categories: []
 date: '2017-01-01'
-lastmod: 2022-10-23T11:14:43+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-10-23T09:14:43.174279Z'
+publishDate: '2023-11-23T12:20:16.615375Z'
 publication_types:
-- '7'
+- thesis
 abstract: 'Hybrid computational fluid dynamics (CFD) - computational aeroacoustics
   (CAA) schemes are the standard method for aeroacoustics simulations. In this approach,
   it is necessary to exchange information between the CFD and the CAA step, which
@@ -51,5 +27,4 @@ abstract: 'Hybrid computational fluid dynamics (CFD) - computational aeroacousti
   highly parallel simulations. Furthermore, in comparison to the classic hybrid method
   with data exchange via disk I/O, the novel approach shows superior performance when
   scaling to thousands of cores.'
-publication: ''
 ---
