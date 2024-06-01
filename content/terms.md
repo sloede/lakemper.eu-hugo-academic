@@ -14,11 +14,11 @@ header:
 ---
 
 Michael Schlottke-Lakemper
-([m.schlottke-lakemper@acom.rwth-aachen.de](mailto:m.schlottke-lakemper@acom.rwth-aachen.de))  
-Applied and Computational Mathematics  
-RWTH Aachen University  
-Schinkelstraße 2  
-52062 Aachen  
+([michael.schlottke-lakemper@uni-a.de](mailto:michael.schlottke-lakemper@uni-a.de))  
+High-Performance Scientific Computing
+University of Augsburg
+Universitätsstraße 12  
+86159 Augsburg
 Germany
 
 This website and its contents were created in my personal capacity. The views

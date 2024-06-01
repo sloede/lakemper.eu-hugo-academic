@@ -47,10 +47,10 @@ highlight_name: true
 title: Michael Schlottke-Lakemper
 email: michael@sloede.com
 ---
-I am computational scientist and research software engineer and lead the
+I am computational scientist and associate professor at the
+[University of Augsburg, Germany](https://www.uni-augsburg.de), where lead the
 [High-Performance Scientific Computing Lab](https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/)
-at the
-[University of Augsburg, Germany](https://www.uni-augsburg.de).
+in the Faculty of Mathematics, Natural Sciences, and Materials Engineering.
 My research focus is on numerical methods for adaptive multi-physics
 simulations, research software engineering for high-performance computing, and
 scientific machine learning.

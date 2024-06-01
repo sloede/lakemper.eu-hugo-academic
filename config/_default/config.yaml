@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Dr. Michael Schlottke-Lakemper" # Website name
+title: "Michael Schlottke-Lakemper" # Website name
 baseurl: 'https://lakemper.eu/' # Website URL
 copyright: "&copy; {year} Michael Schlottke-Lakemper" # Footer text, e.g. '© {year} Me'
 
@@ -66,3 +66,10 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+# Fix issues for local builds (own addition on 2024-06-02)  
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
