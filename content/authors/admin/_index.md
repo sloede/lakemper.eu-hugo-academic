@@ -1,5 +1,5 @@
 ---
-role: Interim Professor
+role: Associate Professor
 avatar_filename: avatar.png
 bio: ""
 interests:
@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:m.schlottke-lakemper@acom.rwth-aachen.de
+    link: mailto:michael.schlottke-lakemper@uni-a.de
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=k3vPAhsAAAAJ
@@ -29,8 +29,8 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Michael_Schlottke-Lakemper
 organizations:
-  - name: RWTH Aachen University, Germany
-    url: https://www.acom.rwth-aachen.de/5people/schlottke-lakemper/start
+  - name: University of Augsburg, Germany
+    url: https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/
 education:
   courses:
     - course: Dr.-Ing. in Computational Engineering Science
@@ -47,15 +47,10 @@ highlight_name: true
 title: Michael Schlottke-Lakemper
 email: michael@sloede.com
 ---
-I am an interim professor (Vertretungsprofessor) for Computational Mathematics and
-research software engineer at the
-[Applied and Computational Mathematics Research Lab](https://www.acom.rwth-aachen.de)
-at
-[RWTH Aachen University, Germany](https://www.rwth-aachen.de).
-For this position, I am currently on leave from heading the
-[Training & Scalable Algorithms group](https://www.hlrs.de/about/tasc)
+I am computational scientist and research software engineer and lead the
+[High-Performance Scientific Computing Lab](https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/)
 at the
-[High-Performance Computing Center Stuttgart (HLRS)](https://www.hlrs.de).
+[University of Augsburg, Germany](https://www.uni-augsburg.de).
 My research focus is on numerical methods for adaptive multi-physics
 simulations, research software engineering for high-performance computing, and
 scientific machine learning.
