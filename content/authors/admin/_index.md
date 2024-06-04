@@ -1,5 +1,5 @@
 ---
-role: Associate Professor
+role: Professor
 avatar_filename: avatar.png
 bio: ""
 interests:
