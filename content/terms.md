@@ -15,10 +15,10 @@ header:
 
 Michael Schlottke-Lakemper
 ([michael.schlottke-lakemper@uni-a.de](mailto:michael.schlottke-lakemper@uni-a.de))  
-High-Performance Scientific Computing
-University of Augsburg
-Universitätsstraße 12  
-86159 Augsburg
+High-Performance Scientific Computing  
+University of Augsburg  
+Universitätsstraße 12a  
+86159 Augsburg  
 Germany
 
 This website and its contents were created in my personal capacity. The views
